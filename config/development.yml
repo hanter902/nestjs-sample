@@ -1,0 +1,10 @@
+
+db:
+  host: 'localhost'
+  username: 'root'
+  password: 'root'
+  synchronize: true
+  autoLoadEntities: true
+
+jwt:
+  secret: 'topSecret51'
