@@ -1,3 +1,6 @@
+server:
+  origin: 'url_aws'
+
 db:
   synchronzine: false
   autoLoadEntities: false
